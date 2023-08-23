@@ -13,4 +13,4 @@ Under the Creative Commons license, anybody who wants to build, add on to or use
  mostly because I've never documented anything before and I should probably at some point so this is that.
  also, it might help later on in college don't know but makeign a github repository documenting the engineering process of building something that is definitely useful in the real world
  and not just another stupid project like the one-person push drift kart that was built last year at 13 looks pretty decent on a college resume or even just a portfolio.
- also to clarify I am able to be on this website Thank you COPPA.
+ Also to clarify I am able to be on this website Thank you COPPA.
