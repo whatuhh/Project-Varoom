@@ -14,3 +14,5 @@ Under the Creative Commons license, anybody who wants to build, add on to or use
  also, it might help later on in college don't know but makeign a github repository documenting the engineering process of building something that is definitely useful in the real world
  and not just another stupid project like the one-person push drift kart that was built last year at 13 looks pretty decent on a college resume or even just a portfolio.
  Also to clarify I am able to be on this website Thank you COPPA.
+ Anyway
+ The engine we are using is a 1962-1963 Craftsman Eager-1 engine from an edger we are planing on slapping it onto a frame we are going to build its going to be back wheel driven with some sort of manual transmission and a back wheel lock to drift.
